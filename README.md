@@ -85,3 +85,4 @@
 - Combining Inductive and Analytical Learning<br>
   > Motivation, inductive-analytical approaches to learning<br>
   > using prior knowledge to initialize the hypothesis<br>
+<--------------------end-----------------------------><br>
